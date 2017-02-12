@@ -11,10 +11,32 @@ deleteApk() {
 
 del_files() {
 cat <<EOF
+BasicDreams
+Browser
 CyanogenSetupWizard
+Eleven
+Email
+Exchange
+FMRadio
+Galaxy4
 Gello
+HoloSpiralWallpaper
+LiveWallpapers
+LiveWallpapersPicker
 LockClock
+ManagedProvisioning
+NoiseField
+PhaseBeam
+PhotoPhase
+PhotoTable
+PicoTts
+Snap
+SnapdragonCamera
 TimeService
+Voice+
+VoiceDialer
+VoicePlus
+WhisperPush
 EOF
 }
 
